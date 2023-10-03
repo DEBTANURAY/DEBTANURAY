@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEBTANURAY
-- 👀 I’m interested in Data 
-- 🌱 I’m currently worjing in Deep Learning,  Machine Learning and Predictive algorithms
+- 👀 I’m interested in Data Science, Analytics and Problem solving
+- 🌱 I’m currently working in Deep Learning,  Machine Learning and Predictive algorithms
 - 💞️ I’m looking to collaborate on Data science related project
 - 📫 How to reach me ... ray.debtanu@gmail.com
 
